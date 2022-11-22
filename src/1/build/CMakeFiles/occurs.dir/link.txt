@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g  -rdynamic CMakeFiles/occurs.dir/occurs.cpp.o  -o ../Executable_Output/occurs 

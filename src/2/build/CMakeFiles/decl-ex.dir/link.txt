@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/decl-ex.dir/decl-ex.cpp.o  -o ../Executable_Output/decl-ex 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/Sales_data.dir/Sales_data.cpp.o  -o ../Executable_Output/Sales_data 

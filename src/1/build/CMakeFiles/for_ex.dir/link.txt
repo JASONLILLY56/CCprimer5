@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g  -rdynamic CMakeFiles/for_ex.dir/for_ex.cpp.o  -o ../Executable_Output/for_ex 

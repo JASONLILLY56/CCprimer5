@@ -1,0 +1,14 @@
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/Sales_data.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/dbl_ptr.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/inits.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/CMakeCXXCompilerId.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/unsigned.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/ref-ex.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/decl-ex.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/convs.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/escape.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/literals.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/rebuild_cache.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/edit_cache.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/compounddecls.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/2/build/CMakeFiles/scope_levels.dir

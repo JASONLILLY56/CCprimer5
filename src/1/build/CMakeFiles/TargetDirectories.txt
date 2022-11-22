@@ -1,0 +1,14 @@
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/for_ex.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/forcount.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/add_item.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/add_item2.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/item_io.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/avg_price.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/mysum.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/add.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/occurs.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/CMakeCXXCompilerId.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/main_only.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/whilecount.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/rebuild_cache.dir
+/home/jason/Work/My_Repo/Study/CCprimer5/src/1/build/CMakeFiles/edit_cache.dir

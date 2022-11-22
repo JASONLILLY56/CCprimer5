@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/dbl_ptr.dir/dbl_ptr.cpp.o  -o ../Executable_Output/dbl_ptr 

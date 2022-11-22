@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g  -rdynamic CMakeFiles/avg_price.dir/avg_price.cpp.o  -o ../Executable_Output/avg_price 
